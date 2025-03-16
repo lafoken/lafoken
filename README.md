@@ -23,9 +23,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 My GitHub Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lafoken&theme=radical)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lafoken&theme=2077) 
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lafoken&theme=2077&utcOffset=2)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lafoken&theme=radical) ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lafoken&theme=2077) ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lafoken&theme=2077&utcOffset=2)
+
+## 📅 Графік активності
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lafoken&theme=merko&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=FFB6C1&bg_color=FFF0F5)
 
 ## 🌟 Projects
