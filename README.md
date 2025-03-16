@@ -8,15 +8,8 @@ I'm a software developer from Ukraine, specializing in Java with a focus on Spri
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 
 ## 📊 My GitHub Stats
-![lafoken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lafoken&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lafoken&layout=compact&theme=dracula)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lafoken&theme=dracula)
-
-## 📈 More Stats
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lafoken&theme=dracula)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lafoken&theme=dracula&utcOffset=2)
-
-## 📅 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lafoken&theme=dracula)
 
 ## 🌟 Projects
