@@ -2,15 +2,15 @@
 I'm a software developer from Ukraine, specializing in Java with a focus on Spring Boot, PostgreSQL, and Quarkus. I love building robust and efficient applications that solve real-world problems.
 
 ## 🛠 Skills
-![Java](https://img.shields.io/badge/-Java-007396?styl e=for-theBadge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=fff)
-![Postgresql](https://img.shields.io/badge/postgresql-4169e1?styl e=for-theBadge&logo=postgresql&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4794EB?styl e=for-theBadge)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 
 ## 📊 My GitHub Stats
-![lafoken's GitHub Stats](https://github-readme-stats.vercel.app /api?username=lafoken&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app /api/top-langs/?username=lafoken&layout=compact&theme=dracula)
-![Streak](https://github-readme-streak-stats.herokuapp .com/?user=lafoken&theme=dracula)
+![lafoken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lafoken&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lafoken&layout=compact&theme=dracula)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lafoken&theme=dracula)
 
 ## 🌟 Projects
 - [oopTrain](https://github.com/lafoken/oopTrain) - A training project for object-oriented programming concepts.
@@ -24,5 +24,9 @@ I'm a software developer from Ukraine, specializing in Java with a focus on Spri
 - Email: [oleksandrhybalo@gmail.com](mailto:oleksandrhybalo@gmail.com)
 - Telegram: [@a9Xv2LpQkn4](https://telegram.me/a9Xv2LpQkn4)
 
-- ## 😄 Fun Fact
-I love spend time with interesting people.
+## 😄 Fun Fact
+I love spending time with interesting people.
+
+---
+
+![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
