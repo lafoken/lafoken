@@ -1,14 +1,3 @@
-<div>
- <!-- Day and Night icons -->
-  <a href="https://github.com/settings/appearance#gh-light-mode-only">  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50" align="right" />
-  </a>
-
-  <a href="https://github.com/settings/appearance#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="50" align="right" />
-  </a>
-</div>
-
 <h1 align="center">Hi there, I'm <a target="_blank">lafoken</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
