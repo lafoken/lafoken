@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 🎓 Software developer from Ukraine, specializing in backend development.
+
 📚 Focused on mastering Java, Spring Boot, PostgreSQL, and Quarkus.
 
 # 💻 Tech Stack:
