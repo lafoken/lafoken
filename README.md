@@ -12,6 +12,13 @@ I'm a software developer from Ukraine, specializing in Java with a focus on Spri
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lafoken&layout=compact&theme=dracula)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lafoken&theme=dracula)
 
+## 📈 More Stats
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lafoken&theme=dracula)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lafoken&theme=dracula&utcOffset=2)
+
+## 📅 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lafoken&theme=dracula)
+
 ## 🌟 Projects
 - [oopTrain](https://github.com/lafoken/oopTrain) - A training project for object-oriented programming concepts.
 - [oopBuider](https://github.com/lafoken/oopBuider) - A project demonstrating OOP principles in building applications.
@@ -22,10 +29,10 @@ I'm a software developer from Ukraine, specializing in Java with a focus on Spri
 
 ## 📫 Contact
 - Email: [oleksandrhybalo@gmail.com](mailto:oleksandrhybalo@gmail.com)
-- Telegram: [@a9Xv2LpQkn4](https://t.me/a9Xv2LpQkn4)
+- Telegram: [@a9Xv2LpQkn4](https://telegram.me/a9Xv2LpQkn4)
 
 ## 😄 Fun Fact
-I love spending time with interesting people.
+I love spending time with interesting people!
 
 ---
 
