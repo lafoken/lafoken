@@ -26,7 +26,6 @@
 
 ## 📫 Contact
 - Email: [oleksandrhybalo@gmail.com](mailto:oleksandrhybalo@gmail.com)
-- Telegram: [@a9Xv2LpQkn4](https://telegram.me/a9Xv2LpQkn4)
 
 ## 😄 Fun Fact
 I love spending time with interesting people.
